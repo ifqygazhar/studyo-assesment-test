@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381646880933",
+    "project_id": "test-studyo",
+    "storage_bucket": "test-studyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381646880933:android:32ca3fe34fadc545a0cd4c",
+        "android_client_info": {
+          "package_name": "com.example.studyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApUbuk8WydBi7ooCFi6BVEaL4Sv_P66k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381646880933:android:04fd2ae184616857a0cd4c",
+        "android_client_info": {
+          "package_name": "com.studyo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApUbuk8WydBi7ooCFi6BVEaL4Sv_P66k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
